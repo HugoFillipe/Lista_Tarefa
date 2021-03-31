@@ -1,6 +1,6 @@
 # Lista Tarefa
 
-Desenvolvido Com a lingugagem PHP com MySql o projeto Lista tarefa tem como objetivo de organizar suas tarefas da forma que você deseja, podendo ser focado no seu dia ou em algum ofício podendo assim alimentar e descarta de maneira rápida e prática.
+Desenvolvido Com a lingugagem PHP com MySql. O projeto Lista tarefa tem como objetivo de organizar suas tarefas da forma que você deseja, podendo ser focado no seu dia ou em algum ofício podendo assim alimentar e descarta de maneira rápida e prática.
 
 ## Requisitos
 
